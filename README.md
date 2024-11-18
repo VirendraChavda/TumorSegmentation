@@ -10,16 +10,15 @@ This repository contains a deep learning-based project for detecting and segment
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Installation](#installation)
-3. [Data](#data)
-4. [Features](#features)
-5. [Visualizations](#visualizations)
-6. [Model Details](#model-details)
-7. [Training Process](#training-process)
-8. [Results](#results)
-9. [Future Work](#future-work)
-10. [Contributing](#contributing)
-11. [License](#license)
+2. [Data](#data)
+3. [Features](#features)
+4. [Visualizations](#visualizations)
+5. [Model Details](#model-details)
+6. [Training Process](#training-process)
+7. [Results](#results)
+8. [Future Work](#future-work)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ---
 
@@ -32,12 +31,6 @@ Early detection of brain tumors is critical for improving patient outcomes. This
 <p align="justify">
 The trained model is robust across various MRI images, showcasing its ability to generalize across different tumor shapes, sizes, and locations.
 </p>
-
----
-
-## Installation
-
-To set up the project, clone the repository and install the required dependencies listed in the `requirements.txt` file. Run the Jupyter Notebook `training.ipynb` to train or evaluate the YOLO segmentation model. The pre-trained model weights (`yolo11n-seg.pt`) can also be used for inference.
 
 ---
 
