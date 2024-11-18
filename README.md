@@ -67,7 +67,7 @@ The following images showcase the model's ability to detect and segment brain tu
 #### Example 1
 - The model successfully detects and segments a tumor with a confidence score of 0.70.
 
-  ![Tumor Detection](./img1.jpg)
+  ![Tumor Detection](img1.jpg)
 
 #### Example 2
 - The model identifies a tumor with a confidence score of 0.85.
